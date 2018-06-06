@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Tesis\VideoPlaybackAnda - copia\app\src\main\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc8f215f7814c3bb08f45cba9659e25db9e5f1e4">
+        <dex dex="E:\Tesis\VideoPlaybackAnda - copia\app\build\intermediates\pre-dexed\debug\Vuforia_2d712ee33a0f5ca02c9778238ff248bafe67c819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Tesis\Ejemplos_posta\VideoPlayback-ultimo\app\src\main\libs\Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc8f215f7814c3bb08f45cba9659e25db9e5f1e4">
+        <dex dex="E:\Tesis\Ejemplos_posta\VideoPlayback-ultimo\app\build\intermediates\pre-dexed\debug\Vuforia_90a352dc3b7b2daae1b131ebf84be75adb5980b9.jar" />
+    </item>
+
+</items>

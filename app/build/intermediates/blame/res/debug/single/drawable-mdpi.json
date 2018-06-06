@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_map.png",
+        "source": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\src\\main\\res\\drawable-mdpi\\ic_map.png"
+    },
+    {
+        "merged": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_fav.png",
+        "source": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\src\\main\\res\\drawable-mdpi\\ic_fav.png"
+    },
+    {
+        "merged": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_scan.png",
+        "source": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\src\\main\\res\\drawable-mdpi\\ic_scan.png"
+    },
+    {
+        "merged": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo.png",
+        "source": "E:\\Tesis\\VideoPlaybackAnda - copia\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    }
+]

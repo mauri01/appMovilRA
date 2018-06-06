@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:2:1-126:12
+	package
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:3:5-48
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:13:5-15:41
+MERGED from [com.android.support:design:26.1.0] C:\Users\mauri\.android\build-cache\d1bf2c067111ff39ce68ac66625e61a3a4295a42\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mauri\.android\build-cache\24201c8d2a844830a9ce09870f324c54017350e0\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mauri\.android\build-cache\e8d297205cb1cff46b9c79dec8c664d0c2dc14af\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mauri\.android\build-cache\fb87595a851c237bc195a7b963fb33595f5fbc19\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mauri\.android\build-cache\6daa2a66c903e3384ff0ae3be1266f47e9fa34c7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\mauri\.android\build-cache\00f6464bc4d8b8dfcb5d6c93d5ea1ee3c37a9158\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mauri\.android\build-cache\f3825ed6287707fe88e99bc81988161ebcf3bec2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mauri\.android\build-cache\d5d1b9a3c5806c09d7c10908c90ea3e0c0f43e6f\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mauri\.android\build-cache\91faf0140dab034833da1c08007091cc7839c448\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mauri\.android\build-cache\0b07101ffd5f43af420bf3113ba094faec6cced3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mauri\.android\build-cache\14fe89820df981308202afc3f880e404896eed3a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mauri\.android\build-cache\a293206c04a45c0acec34a692d6faa5d8f116ff6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mauri\.android\build-cache\091f8cc70a7eb9df6f73319ceadcfce6f96dc170\output\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\mauri\.android\build-cache\9436da2925c6ae101ab8e0e6ec79e558a4a858db\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\mauri\.android\build-cache\d1bf2c067111ff39ce68ac66625e61a3a4295a42\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:15:9-38
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:14:9-35
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:17:5-54
+	android:glEsVersion
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:17:19-51
+uses-feature#android.hardware.camera
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:33:5-60
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:33:19-57
+uses-permission#android.permission.CAMERA
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:36:5-65
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:36:22-62
+uses-permission#android.permission.INTERNET
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:39:5-67
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:39:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:45:5-79
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:45:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:46:5-80
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:46:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:47:5-81
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:47:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:48:5-75
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:48:22-72
+application
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:64:5-124:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\mauri\.android\build-cache\d1bf2c067111ff39ce68ac66625e61a3a4295a42\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mauri\.android\build-cache\24201c8d2a844830a9ce09870f324c54017350e0\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mauri\.android\build-cache\e8d297205cb1cff46b9c79dec8c664d0c2dc14af\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mauri\.android\build-cache\fb87595a851c237bc195a7b963fb33595f5fbc19\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mauri\.android\build-cache\6daa2a66c903e3384ff0ae3be1266f47e9fa34c7\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\mauri\.android\build-cache\00f6464bc4d8b8dfcb5d6c93d5ea1ee3c37a9158\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mauri\.android\build-cache\f3825ed6287707fe88e99bc81988161ebcf3bec2\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mauri\.android\build-cache\d5d1b9a3c5806c09d7c10908c90ea3e0c0f43e6f\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mauri\.android\build-cache\91faf0140dab034833da1c08007091cc7839c448\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mauri\.android\build-cache\0b07101ffd5f43af420bf3113ba094faec6cced3\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mauri\.android\build-cache\14fe89820df981308202afc3f880e404896eed3a\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mauri\.android\build-cache\a293206c04a45c0acec34a692d6faa5d8f116ff6\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mauri\.android\build-cache\091f8cc70a7eb9df6f73319ceadcfce6f96dc170\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\mauri\.android\build-cache\9436da2925c6ae101ab8e0e6ec79e558a4a858db\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:68:9-41
+	android:launchMode
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:69:9-40
+	android:allowBackup
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:65:9-35
+	android:icon
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:67:9-38
+	android:description
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:66:9-54
+	android:theme
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:70:9-47
+activity#com.vuforia.samples.VideoPlayback.ui.ActivityList.ActivitySplashScreen
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:88:9-99:20
+	android:screenOrientation
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:93:13-49
+	android:noHistory
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:91:13-37
+	android:configChanges
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:90:13-63
+	android:theme
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:92:13-51
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:89:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:94:13-98:29
+action#android.intent.action.MAIN
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:95:17-69
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:95:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:97:17-77
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:97:27-74
+activity#com.vuforia.samples.VideoPlayback.ui.ActivityList.AboutScreen
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:100:9-104:52
+	android:screenOrientation
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:104:13-49
+	android:configChanges
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:103:13-63
+	android:theme
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:102:13-51
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:101:13-56
+activity#com.vuforia.samples.VideoPlayback.app.VideoPlayback.VideoPlayback
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:105:9-109:54
+	android:launchMode
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:108:13-44
+	android:configChanges
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:107:13-93
+	android:theme
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:109:13-51
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:106:13-60
+activity#com.vuforia.samples.VideoPlayback.app.VideoPlayback.FullscreenPlayback
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:112:9-123:20
+	android:screenOrientation
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:119:13-50
+	android:label
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:117:13-45
+	android:launchMode
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:118:13-44
+	android:exported
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:116:13-37
+	android:configChanges
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:115:13-93
+	android:theme
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:114:13-51
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:113:13-65
+intent-filter#android.intent.action.VIEW
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:120:13-122:29
+action#android.intent.action.VIEW
+ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:121:17-69
+	android:name
+		ADDED from E:\Tesis\VideoPlaybackAnda - copia\app\src\main\AndroidManifest.xml:121:25-66
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\mauri\.android\build-cache\d1bf2c067111ff39ce68ac66625e61a3a4295a42\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\mauri\.android\build-cache\24201c8d2a844830a9ce09870f324c54017350e0\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\mauri\.android\build-cache\e8d297205cb1cff46b9c79dec8c664d0c2dc14af\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\mauri\.android\build-cache\fb87595a851c237bc195a7b963fb33595f5fbc19\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\mauri\.android\build-cache\6daa2a66c903e3384ff0ae3be1266f47e9fa34c7\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\mauri\.android\build-cache\00f6464bc4d8b8dfcb5d6c93d5ea1ee3c37a9158\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\mauri\.android\build-cache\f3825ed6287707fe88e99bc81988161ebcf3bec2\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\mauri\.android\build-cache\d5d1b9a3c5806c09d7c10908c90ea3e0c0f43e6f\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\mauri\.android\build-cache\91faf0140dab034833da1c08007091cc7839c448\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\mauri\.android\build-cache\0b07101ffd5f43af420bf3113ba094faec6cced3\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\mauri\.android\build-cache\14fe89820df981308202afc3f880e404896eed3a\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\mauri\.android\build-cache\a293206c04a45c0acec34a692d6faa5d8f116ff6\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\mauri\.android\build-cache\d1bf2c067111ff39ce68ac66625e61a3a4295a42\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\mauri\.android\build-cache\d1bf2c067111ff39ce68ac66625e61a3a4295a42\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mauri\.android\build-cache\091f8cc70a7eb9df6f73319ceadcfce6f96dc170\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mauri\.android\build-cache\091f8cc70a7eb9df6f73319ceadcfce6f96dc170\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mauri\.android\build-cache\091f8cc70a7eb9df6f73319ceadcfce6f96dc170\output\AndroidManifest.xml:26:13-58
